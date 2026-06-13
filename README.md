@@ -57,7 +57,7 @@ This project aims to develop a machine learning model that can accurately classi
 7. Personality Prediction
 
 ## screenshot 
-<img src="image dashboard.png" width="800">
+<img src="dashboard.png" width="800">
 
 
 ## Results
